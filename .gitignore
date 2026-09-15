@@ -1,0 +1,42 @@
+# ===== Unity generate project files & merge tooling =====
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/[Mm]oduleCache/
+/[Aa]ssets/AssetStoreTools*
+
+# ===== Visual Studio / VS Code =====
+.vs/
+.fleet/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# ===== OS generated files =====
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ===== Godot (abaikan, bukan dipakai, tapi aman) =====
+# *.godot
+
+# ===== Umum =====
+.env
+*.exe
+*.dll

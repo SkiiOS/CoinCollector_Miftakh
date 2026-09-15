@@ -6,13 +6,10 @@ Game 2D **Coin Collector** buatan Unity — player mengumpulkan koin sambil dihi
 
 ## Identitas
 
-| Nama | Kelas | Sekolah | Email / Kontak |
-|------|-------|---------|----------------|
-| Miftakh | XI PPLG 2 | *(isi nama sekolah)* | miftakhhisyam@gmail.com |
+| Nama | Kelas |
+|------|-------|
+| Miftakh | XI PPLG 2 |
 
-> **Catatan:** lengkapi kolom yang kosong sebelum di-upload ke GitHub.
-
----
 
 ## Fitur / Ketentuan yang Dipenuhi
 
